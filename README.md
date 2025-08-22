@@ -1,5 +1,7 @@
 👋 Hii, I’m Tingting Duan, a first-year PhD student @CSE,CUHK
-👀 I love trees, ocean, sunsets, and beautiful algorithms
+
+🌳 I love trees, ocean, sunsets, and beautiful algorithms
+
 📫 How to reach me：ttduan25@cse.cuhk.edu.hk
 
 <!---
